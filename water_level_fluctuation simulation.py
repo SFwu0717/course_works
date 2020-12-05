@@ -33,6 +33,7 @@ for layer in range ( 0 , 8 ) :
     
         y1 = y + amplitude * math.sin ( - omega * ( t -  (n-1) * widthofunit / ( velocity * 2 )   ) )
                 
+            
         
         
         plt.plot ( x1 , y1 ,"r*")
