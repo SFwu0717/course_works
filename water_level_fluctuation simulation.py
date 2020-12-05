@@ -48,7 +48,6 @@ for layer in range ( 0 , 8 ) :
 plt.xlim(0,6000)
 plt.ylim(-1000,0)
 plt.show()
-
 #議題.....
 #波速
 #水分子震動半徑隨深度變化
